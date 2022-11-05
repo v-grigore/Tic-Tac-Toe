@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
-x si 0
+# Tic Tac Toe
+Use a CLI compiler in  order to run
